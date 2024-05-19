@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Musical-Instrument-Inheritance", "Musical-Instrument-Inheritance\Musical-Instrument-Inheritance.csproj", "{4998879A-D28B-4CCD-930D-AF58261457C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4998879A-D28B-4CCD-930D-AF58261457C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4998879A-D28B-4CCD-930D-AF58261457C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4998879A-D28B-4CCD-930D-AF58261457C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4998879A-D28B-4CCD-930D-AF58261457C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3243AAC-BE80-4FAD-A36A-20990961A418}
+	EndGlobalSection
+EndGlobal
